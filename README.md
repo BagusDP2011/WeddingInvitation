@@ -1,6 +1,7 @@
 # Arin & Miftah Wedding Website
 
 ![Arin Miftah Wedding](https://github.com/Miftahussalam/wedding/blob/master/src/assets/thumbnail.png?raw=true)
+For Bagus further later
 
 Features:
 - Landing Page, with features like:
